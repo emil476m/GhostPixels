@@ -1,0 +1,25 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Packaging and build output
+build/
+dist/
+*.egg-info/
+
+# Tool caches
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+
+# Temporary files and logs
+*.log
+*.tmp
+
+# Local test files
+whitecat.png
+cat.jpg
+TestText.txt
